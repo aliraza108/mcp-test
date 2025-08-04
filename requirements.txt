@@ -1,4 +1,0 @@
-openai-agents
-mcp
-requests
-chainlit

@@ -1,0 +1,11 @@
+git add requirements.txt
+
+openai-agents
+mcp
+
+requests
+<<<<<<< HEAD
+chainlit
+=======
+chainlit
+>>>>>>> 139e502b83a352c29c3f36fe9a8473676d4f33a1
